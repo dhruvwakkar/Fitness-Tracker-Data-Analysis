@@ -43,7 +43,7 @@ Analysis-ready versions of these datasets were prepared for the project.
 
 ### Page 1: Daily Activity and Intensity
 
-![Fitness Tracker Dashboard - Page 1](Fitness_Tracker_Dashboard_Page1.png)
+![Fitness Tracker Dashboard - Page 1](fitness_data_powerbi_dashboard_report_1.jpeg)
 
 This page explores daily activity and hourly intensity through:
 
@@ -55,7 +55,7 @@ This page explores daily activity and hourly intensity through:
 
 ### Page 2: Sleep Analysis
 
-![Fitness Tracker Dashboard - Page 2](Fitness_Tracker_Dashboard_Page2.png)
+![Fitness Tracker Dashboard - Page 2](fitness_data_powerbi_dashboard_report_2.jpeg)
 
 This page explores sleep behavior through:
 
